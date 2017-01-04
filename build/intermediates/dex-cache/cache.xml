@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8994875f9dcd8338d677aab797d509f2d56e3f3b.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6115a6afb214dfd762ec933afc33dc42bde8d42">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_14b397342e5a1dca1f39fc60e42efe3d0eec3910.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_5511e39ee3c562815fe5dda4813b21c8edb2b330.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ad9fcef34a61423db8f99941677b0cf07adf8e96">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run_dd2b94b791658fb1c8f29d28716917f124884e5a.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_a24cf84c7c5de7ca3673589dbd515e6388b5b82c.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_8363c4d1fe3d5e46b8fd612d5e276ad4af123952.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_794e3b9ca44559569b88b07ab39449ba31171b51.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_36073c9049664e18f1d3f1bc2b6fbdb95f60ff6b.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_3adf4ee07627bb6a8854a996a5778577d05f54c0.jar" />
+    </item>
+    <item
+        jar="E:\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_13b5d5b7ecb88f26abceddf34069a88c8fd60490.jar" />
+    </item>
+
+</items>
